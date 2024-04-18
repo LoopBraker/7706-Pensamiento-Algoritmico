@@ -8,7 +8,7 @@
 
 Este proyecto es un curso de programación en Python orientado a estudiantes de la Facultad de Ingeniería, diseñado para abarcar un semestre completo. El curso, denominado **Pensamiento Algorítmico**, es una introducción ideal al mundo de la programación y el análisis sistemático. 🌎
 
-**¡No se requiere experiencia previa en programación con Python!** 🚀 Tu misión, si decides aceptarla, es unirte a nosotros para adquirir conocimientos fundamentales sobre programación secuencial, estructuras de control, manejo de datos y desarrollo de soluciones eficientes a problemas complejos. Comenzarás aprendiendo los fundamentos del lenguaje Python y progresivamente explorarás herramientas y técnicas que te prepararán para enfrentar desafíos reales en ingeniería. 🛠️
+**¡No se requiere experiencia previa en programación con Python!** 👨‍🚀 Tu misión, si decides aceptarla, es unirte a nosotros para adquirir conocimientos fundamentales sobre programación secuencial, estructuras de control, manejo de datos y desarrollo de soluciones eficientes a problemas complejos. Comenzarás aprendiendo los fundamentos del lenguaje Python y progresivamente explorarás herramientas y técnicas que te prepararán para enfrentar desafíos reales en ingeniería. 🛠️
 
 **Pensamiento Algorítmico** está diseñado no solo para enseñar a programar, sino para desarrollar un enfoque lógico y metódico hacia la resolución de problemas, habilidades críticas para cualquier futuro ingeniero. A lo largo del semestre, se fomentará la discusión, el aprendizaje colaborativo y el análisis crítico, elementos esenciales para el éxito en el ámbito académico y profesional. 👩‍🎓👨‍🎓
 <br>
