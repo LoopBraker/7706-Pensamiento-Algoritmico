@@ -12,19 +12,42 @@ Este proyecto es un curso de programación en Python orientado a estudiantes de 
 
 "Pensamiento Algorítmico" está diseñado no solo para enseñar a programar, sino para desarrollar un enfoque lógico y metódico hacia la resolución de problemas, habilidades críticas para cualquier futuro ingeniero. A lo largo del semestre, se fomentará la discusión, el aprendizaje colaborativo y el análisis crítico, elementos esenciales para el éxito en el ámbito académico y profesional.
 
+**Tabla de Contenido** <br>
+Currículo <br>
+  [Módulo 1- Bases y estructura de programación secuencial](#modulo-1) <br>
+  [Módulo 2 - Estructuras de programación Condicional](#modulo-2) <br>
+  [Módulo 3 - Estructuras de programación repetitiva](#modulo-3) <br>
+  [Módulo 4 - Programación modular](#modulo-4) <br>
+  [Módulo 5 - Arreglos](#modulo-5) <br>
+
 # Currículo
-**Módulo 1- Bases y estructura de programación secuencial** <br>
+
+<h4 id="modulo-1">
+Módulo 1- Bases y estructura de programación secuencial
+</h4>
+
 En este primer módulo, estableceremos las bases del pensamiento algorítmico y la programación secuencial. Aprenderás qué es un algoritmo, sus características esenciales, y cómo se estructuran y expresan los algoritmos para resolver problemas de manera lógica. Además, introduciremos los conceptos básicos de los programas y los lenguajes de programación, con un enfoque especial en los tipos de datos, identificadores, operadores y expresiones. Este módulo es fundamental para entender cómo se construyen las bases sobre las que se desarrollarán programas en los módulos siguientes.
 
-**Módulo 2 - Estructuras de programación Condicional** <br>
+<h4 id="modulo-2">
+Módulo 2 - Estructuras de programación Condicional
+</h4>
+
 El segundo módulo se centra en las estructuras de programación condicional, que son esenciales para la toma de decisiones dentro de los programas. Exploraremos desde la estructura condicional simple hasta estructuras más complejas como la selectiva múltiple y condicionales anidados. Este módulo te permitirá empezar a escribir programas que reaccionan de diferentes maneras dependiendo de las entradas y condiciones, una habilidad clave en la programación de cualquier software.
 
-**Módulo 3 - Estructuras de programación repetitiva** <br>
+<h4 id="modulo-3">
+Módulo 3 - Estructuras de programación repetitiva
+</h4>
+
 Aquí abordaremos las estructuras de programación repetitiva, que permiten ejecutar bloques de código múltiples veces. Estudiarás diferentes tipos de ciclos como 'para', 'mientras', y 'repita hasta', incluyendo ciclos anidados que son fundamentales para manejar tareas repetitivas y complejas de manera eficiente. Este módulo es crucial para aprender a manejar procesos que requieren iteración, como procesar colecciones de datos o realizar cálculos repetitivos.
 
-**Módulo 4 - Programación modular** <br>
+<h4 id="modulo-4">
+Módulo 4 - Programación modular
+</h4>
+
 El cuarto módulo introduce la programación modular, un enfoque que te permite dividir programas complejos en unidades más pequeñas y manejables llamadas funciones. Aprenderás sobre la definición y reglas de las funciones, cómo utilizar parámetros, y las diferentes formas de paso de parámetros. Este módulo es esencial para el diseño de software eficiente y mantenible, permitiendo la reutilización de código y la mejora en la organización de los programas.
 
-**Módulo 5 - Arreglos** <br>
-Finalmente, en el quinto módulo, nos enfocaremos en los arreglos, estructuras de datos que permiten almacenar múltiples valores en una sola variable. Aprenderás sobre arreglos unidimensionales y bidimensionales, y cómo manipular estos utilizando métodos de ordenamiento y búsqueda, como el método burbuja y el método de selección. Este módulo te equipará con las herramientas necesarias para manejar grandes volúmenes de datos de manera eficiente, una habilidad indispensable en el campo de la ingeniería y la ciencia de datos.
+<h4 id="modulo-5">
+Módulo 5 - Arreglos
+</h4>
 
+Finalmente, en el quinto módulo, nos enfocaremos en los arreglos, estructuras de datos que permiten almacenar múltiples valores en una sola variable. Aprenderás sobre arreglos unidimensionales y bidimensionales, y cómo manipular estos utilizando métodos de ordenamiento y búsqueda, como el método burbuja y el método de selección. Este módulo te equipará con las herramientas necesarias para manejar grandes volúmenes de datos de manera eficiente, una habilidad indispensable en el campo de la ingeniería y la ciencia de datos.
