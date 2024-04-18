@@ -1,47 +1,30 @@
-<p style="text-align:center;"><img src="https://github.com/LoopBraker/7706-Pensamiento-Algoritmico/assets/155758226/82827900-b9a1-46ce-ad3f-8b2a2146f406" width="200" height="auto"></p>
+<p align="center">
+<img src="https://github.com/LoopBraker/7706-Pensamiento-Algoritmico/assets/155758226/82827900-b9a1-46ce-ad3f-8b2a2146f406" width="200" height="auto">
+</p>
 
-# Contenido
-### Módulo 1- Bases y estructura de programación secuencial
-- **Conceptos básicos:**
-  1. Algoritmo 
-  2. Características de un algoritmo 
-  3. Partes de un algoritmo 
-  4. Medios de expresión de un algoritmo 
-  5. Programa 
-  6. Lenguaje de programación 
-- **Herramientas de programación:**
-  1. Tipos de datos
-  2. Tipos de identificadores
-  3. Tipos de operadores
-  4. Expresiones 
-- **Estructuras de programación secuencial**
+<h1 align="center">Pensamiento Algorítmico</h1>
 
-### Módulo 2 - Estructuras de programación Condicional
-- **Estructura condicional simple**
-- **Estructura selectiva múltiple**
-- **Condicionales anidados**
+<h3 align="center"> Piensa en código, vive en soluciones 🚀</h3>
 
-### Módulo 3 - Estructuras de programación repetitiva
-- **Ciclo para**
-- **Ciclo mientras**
-- **Ciclo repita hasta**
-- **Ciclos anidados**
+Este proyecto es un curso de programación en Python orientado a estudiantes de la Facultad de Ingeniería, diseñado para abarcar un semestre completo. El curso, denominado "Pensamiento Algorítmico", es una introducción ideal al mundo de la programación y el análisis sistemático.
 
-### Módulo 4 - Programación modular
-- **Definición**
-- **Reglas**
-- **Funciones**
-- **Parámetros de un subprograma**
-- **Formas de paso de parámetros**
-- **Tipos de variables**
+¡No se requiere experiencia previa en programación con Python! Tu misión, si decides aceptarla, es unirte a nosotros para adquirir conocimientos fundamentales sobre programación secuencial, estructuras de control, manejo de datos y desarrollo de soluciones eficientes a problemas complejos. Comenzarás aprendiendo los fundamentos del lenguaje Python y progresivamente explorarás herramientas y técnicas que te prepararán para enfrentar desafíos reales en ingeniería.
 
-### Módulo 5 - Arreglos
-- **Arreglos unidimensionales**
-- **Métodos de ordenamiento**
-  1. Método burbuja
-  2. Método de selección
-- **Métodos de búsqueda**
-  1. Método búsqueda secuencial
-- **Arreglos bidimensionales**
+"Pensamiento Algorítmico" está diseñado no solo para enseñar a programar, sino para desarrollar un enfoque lógico y metódico hacia la resolución de problemas, habilidades críticas para cualquier futuro ingeniero. A lo largo del semestre, se fomentará la discusión, el aprendizaje colaborativo y el análisis crítico, elementos esenciales para el éxito en el ámbito académico y profesional.
 
-# Talleres
+# Currículo
+**Módulo 1- Bases y estructura de programación secuencial** <br>
+En este primer módulo, estableceremos las bases del pensamiento algorítmico y la programación secuencial. Aprenderás qué es un algoritmo, sus características esenciales, y cómo se estructuran y expresan los algoritmos para resolver problemas de manera lógica. Además, introduciremos los conceptos básicos de los programas y los lenguajes de programación, con un enfoque especial en los tipos de datos, identificadores, operadores y expresiones. Este módulo es fundamental para entender cómo se construyen las bases sobre las que se desarrollarán programas en los módulos siguientes.
+
+**Módulo 2 - Estructuras de programación Condicional** <br>
+El segundo módulo se centra en las estructuras de programación condicional, que son esenciales para la toma de decisiones dentro de los programas. Exploraremos desde la estructura condicional simple hasta estructuras más complejas como la selectiva múltiple y condicionales anidados. Este módulo te permitirá empezar a escribir programas que reaccionan de diferentes maneras dependiendo de las entradas y condiciones, una habilidad clave en la programación de cualquier software.
+
+**Módulo 3 - Estructuras de programación repetitiva** <br>
+Aquí abordaremos las estructuras de programación repetitiva, que permiten ejecutar bloques de código múltiples veces. Estudiarás diferentes tipos de ciclos como 'para', 'mientras', y 'repita hasta', incluyendo ciclos anidados que son fundamentales para manejar tareas repetitivas y complejas de manera eficiente. Este módulo es crucial para aprender a manejar procesos que requieren iteración, como procesar colecciones de datos o realizar cálculos repetitivos.
+
+**Módulo 4 - Programación modular** <br>
+El cuarto módulo introduce la programación modular, un enfoque que te permite dividir programas complejos en unidades más pequeñas y manejables llamadas funciones. Aprenderás sobre la definición y reglas de las funciones, cómo utilizar parámetros, y las diferentes formas de paso de parámetros. Este módulo es esencial para el diseño de software eficiente y mantenible, permitiendo la reutilización de código y la mejora en la organización de los programas.
+
+**Módulo 5 - Arreglos** <br>
+Finalmente, en el quinto módulo, nos enfocaremos en los arreglos, estructuras de datos que permiten almacenar múltiples valores en una sola variable. Aprenderás sobre arreglos unidimensionales y bidimensionales, y cómo manipular estos utilizando métodos de ordenamiento y búsqueda, como el método burbuja y el método de selección. Este módulo te equipará con las herramientas necesarias para manejar grandes volúmenes de datos de manera eficiente, una habilidad indispensable en el campo de la ingeniería y la ciencia de datos.
+
