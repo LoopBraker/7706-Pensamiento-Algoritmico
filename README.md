@@ -1,4 +1,5 @@
-**Módulo 1- Bases y estructura de programación secuencial**
+# Contenido
+### Módulo 1- Bases y estructura de programación secuencial
 - **Conceptos básicos:**
   1. Algoritmo 
   2. Características de un algoritmo 
@@ -13,18 +14,18 @@
   4. Expresiones 
 - **Estructuras de programación secuencial**
 
-**Módulo 2 - Estructuras de programación Condicional**
+### Módulo 2 - Estructuras de programación Condicional
 - **Estructura condicional simple**
 - **Estructura selectiva múltiple**
 - **Condicionales anidados**
 
-**Módulo 3 - Estructuras de programación repetitiva**
+### Módulo 3 - Estructuras de programación repetitiva
 - **Ciclo para**
 - **Ciclo mientras**
 - **Ciclo repita hasta**
 - **Ciclos anidados**
 
-**Módulo 4 - Programación modular**
+### Módulo 4 - Programación modular
 - **Definición**
 - **Reglas**
 - **Funciones**
@@ -32,7 +33,7 @@
 - **Formas de paso de parámetros**
 - **Tipos de variables**
 
-**Módulo 5 - Arreglos**
+### Módulo 5 - Arreglos
 - **Arreglos unidimensionales**
 - **Métodos de ordenamiento**
   1. Método burbuja
@@ -40,3 +41,5 @@
 - **Métodos de búsqueda**
   1. Método búsqueda secuencial
 - **Arreglos bidimensionales**
+
+# Talleres
