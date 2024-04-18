@@ -14,7 +14,7 @@ Este proyecto es un curso de programación en Python orientado a estudiantes de 
 
 ### Tabla de Contenido<br>
 <ul>
-<a href="#curriculo"><strong>Currículo 📚</strong></a>
+<a href="#curriculo"><strong>Currículo</strong></a>📚
   <ul>
     <li><a href="#modulo-1">Módulo 1 - Bases y estructura de programación secuencial 🧱</a></li>
     <li><a href="#modulo-2">Módulo 2 - Estructuras de programación Condicional 🔀</a></li>
