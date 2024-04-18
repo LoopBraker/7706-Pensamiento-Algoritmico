@@ -25,6 +25,8 @@ Este proyecto es un curso de programación en Python orientado a estudiantes de 
   <br>
 <a href="#recursos"><strong>Recursos 🛠️</strong></a>
 </ul>
+<br>
+<br>
 
 
 <h2 id="curriculo">
