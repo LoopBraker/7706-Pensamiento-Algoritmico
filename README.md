@@ -1,3 +1,5 @@
+<p style="text-align:center;"><img src="https://github.com/LoopBraker/7706-Pensamiento-Algoritmico/assets/155758226/82827900-b9a1-46ce-ad3f-8b2a2146f406" width="200" height="auto"></p>
+
 # Contenido
 ### Módulo 1- Bases y estructura de programación secuencial
 - **Conceptos básicos:**
