@@ -12,15 +12,23 @@ Este proyecto es un curso de programación en Python orientado a estudiantes de 
 
 "Pensamiento Algorítmico" está diseñado no solo para enseñar a programar, sino para desarrollar un enfoque lógico y metódico hacia la resolución de problemas, habilidades críticas para cualquier futuro ingeniero. A lo largo del semestre, se fomentará la discusión, el aprendizaje colaborativo y el análisis crítico, elementos esenciales para el éxito en el ámbito académico y profesional.
 
-**Tabla de Contenido** <br>
-Currículo <br>
-  [Módulo 1- Bases y estructura de programación secuencial](#modulo-1) <br>
-  [Módulo 2 - Estructuras de programación Condicional](#modulo-2) <br>
-  [Módulo 3 - Estructuras de programación repetitiva](#modulo-3) <br>
-  [Módulo 4 - Programación modular](#modulo-4) <br>
-  [Módulo 5 - Arreglos](#modulo-5) <br>
+### Tabla de Contenido<br>
+<ul>
+<a href="#curriculo"><strong>Currículo</strong></a>
+  <ul>
+    <li><a href="#modulo-1">Módulo 1- Bases y estructura de programación secuencial</a></li>
+    <li><a href="#modulo-2">Módulo 2 - Estructuras de programación Condicional</a></li>
+    <li><a href="#modulo-3">Módulo 3 - Estructuras de programación repetitiva</a></li>
+    <li><a href="#modulo-4">Módulo 4 - Programación modular</a></li>
+    <li><a href="#modulo-5">Módulo 5 - Arreglos</a></li>
+  </ul>
+<a href="#recursos"><strong>Recursos</strong></a>
+</ul>
 
-# Currículo
+
+<h2 id="curriculo">
+Currículo
+</h2>
 
 <h4 id="modulo-1">
 Módulo 1- Bases y estructura de programación secuencial
@@ -51,3 +59,7 @@ Módulo 5 - Arreglos
 </h4>
 
 Finalmente, en el quinto módulo, nos enfocaremos en los arreglos, estructuras de datos que permiten almacenar múltiples valores en una sola variable. Aprenderás sobre arreglos unidimensionales y bidimensionales, y cómo manipular estos utilizando métodos de ordenamiento y búsqueda, como el método burbuja y el método de selección. Este módulo te equipará con las herramientas necesarias para manejar grandes volúmenes de datos de manera eficiente, una habilidad indispensable en el campo de la ingeniería y la ciencia de datos.
+
+<h2 id="recursos">
+Recursos
+</h2>
