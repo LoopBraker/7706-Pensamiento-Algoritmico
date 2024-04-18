@@ -63,7 +63,7 @@ Módulo 5 - Arreglos 📊
 </h4>
 
 Finalmente, en el quinto módulo, nos enfocaremos en los arreglos, estructuras de datos que permiten almacenar múltiples valores en una sola variable. Aprenderás sobre arreglos unidimensionales y bidimensionales, y cómo manipular estos utilizando métodos de ordenamiento y búsqueda, como el método burbuja y el método de selección. Este módulo te equipará con las herramientas necesarias para manejar grandes volúmenes de datos de manera eficiente, una habilidad indispensable en el campo de la ingeniería y la ciencia de datos.
-
+<br>
 <h2 id="recursos">
 Recursos
 </h2>
