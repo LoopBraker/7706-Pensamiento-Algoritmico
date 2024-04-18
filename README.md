@@ -11,7 +11,8 @@ Este proyecto es un curso de programación en Python orientado a estudiantes de 
 **¡No se requiere experiencia previa en programación con Python!** 🚀 Tu misión, si decides aceptarla, es unirte a nosotros para adquirir conocimientos fundamentales sobre programación secuencial, estructuras de control, manejo de datos y desarrollo de soluciones eficientes a problemas complejos. Comenzarás aprendiendo los fundamentos del lenguaje Python y progresivamente explorarás herramientas y técnicas que te prepararán para enfrentar desafíos reales en ingeniería. 🛠️
 
 **Pensamiento Algorítmico** está diseñado no solo para enseñar a programar, sino para desarrollar un enfoque lógico y metódico hacia la resolución de problemas, habilidades críticas para cualquier futuro ingeniero. A lo largo del semestre, se fomentará la discusión, el aprendizaje colaborativo y el análisis crítico, elementos esenciales para el éxito en el ámbito académico y profesional. 👩‍🎓👨‍🎓
-
+<br>
+<br>
 ### Tabla de Contenido<br>
 <ul>
 <a href="#curriculo"><strong>Currículo</strong></a>📚
@@ -64,6 +65,7 @@ Módulo 5 - Arreglos 📊
 
 Finalmente, en el quinto módulo, nos enfocaremos en los arreglos, estructuras de datos que permiten almacenar múltiples valores en una sola variable. Aprenderás sobre arreglos unidimensionales y bidimensionales, y cómo manipular estos utilizando métodos de ordenamiento y búsqueda, como el método burbuja y el método de selección. Este módulo te equipará con las herramientas necesarias para manejar grandes volúmenes de datos de manera eficiente, una habilidad indispensable en el campo de la ingeniería y la ciencia de datos.
 <br>
+<br>
 <h2 id="recursos">
-Recursos
+Recursos 🛠️
 </h2>
