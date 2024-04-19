@@ -31,6 +31,7 @@ Fin
 ```
 
 **¿Qué determina la ejecución de este algoritmo?**
+
 	a. Muestra la posición del elemento mayor de la lista.
 	b. Muestra el elemento mayor de la lista.
 	c. Muestra las ventas del producto en los 30 días.
@@ -57,6 +58,7 @@ Fin
 ```
 
 **¿Qué determina la ejecución de este algoritmo?**
+
 	a. Muestra la posición del elemento mayor de la lista.
 	b. Muestra el elemento mayor de la lista.
 	c. Muestra la suma total de las ventas en los 30 días.
@@ -86,6 +88,7 @@ Fin
 ```
 
 **¿Qué determina la ejecución de este algoritmo?**
+
 	a. Muestra la temperatura máxima registrada en el mes.
 	b. Muestra la temperatura mínima registrada en el mes.
 	c. Calcula y muestra el promedio mensual de las temperaturas.
@@ -114,6 +117,7 @@ Fin
 ```
 
 **¿Qué determina la ejecución de este algoritmo?**
+
 	a. Calcula y muestra la cantidad de exámenes en los que el estudiante obtuvo al menos 75 puntos.
 	b. Muestra el promedio de las puntuaciones de los exámenes.
 	c. Muestra el total de puntos obtenidos en los exámenes.
@@ -145,6 +149,7 @@ Fin
 ```
 
 **¿Qué determina la ejecución de este algoritmo?**
+
 	a. Suma los números pares y cuenta los números impares de la lista.
 	b. Suma los números negativos y cuenta los números positivos de la lista.
 	c. Suma los números positivos y los números negativos de la lista.
@@ -175,6 +180,7 @@ Fin
 ```
 
 **¿Qué determina la ejecución de este algoritmo?**
+
 	a. Encuentra y muestra la menor diferencia entre dos elementos consecutivos en la lista.
 	b. Encuentra y muestra la mayor suma entre dos elementos consecutivos en la lista.
 	c. Encuentra y muestra la mayor diferencia entre dos elementos consecutivos en la lista.
@@ -205,6 +211,7 @@ Fin
 ```
 
 **¿Qué determina la ejecución de este algoritmo?**
+
 	a. Encuentra y muestra el primer valor negativo en la lista.
 	b. Suma todos los valores negativos en la lista y muestra el total.
 	c. Cuenta y muestra la cantidad de valores negativos en la lista.
@@ -235,6 +242,7 @@ Fin
 ```
 
 **¿Qué determina la ejecución de este algoritmo?**
+
 	a. Suma todos los valores en la lista y muestra el total.
 	b. Encuentra y muestra el primer valor no negativo en la lista.
 	c. Suma todos los valores no negativos en la lista y muestra el total.
@@ -271,8 +279,9 @@ print(V)  # Imprimir el vector resultante
 ```
 
 **¿Cuáles son los valores finales en el vector V?**
+
 	a) 2, 5, 7, 12, 19, 24, 31, 50
-	_b) 2, 5, 1, 6, 0, 6, 0, 6_
+	b) 2, 5, 1, 6, 0, 6, 0, 6
 	c) 2, 5, 7, 1, 2, 1, 2, 1
 	d) Ninguna de las anteriores
 
@@ -338,9 +347,10 @@ Fin
 ```
 
 **¿Cuántas veces se ejecuta el ciclo for antes de detenerse?**
+
 	a) 10 veces
 	b) 5 veces
-	_c) 4 veces_
+	c) 4 veces
 	d) Ninguna de las anteriores
 
 # Ejercicio 11
@@ -368,8 +378,9 @@ Fin
 ```
 
 **¿Cuántas veces se ejecuta el ciclo for antes de detenerse?**
+
 	a) 5 veces
-	_b) 6 veces_
+	b) 6 veces
 	c) 7 veces
 	d) Ninguna de las anteriores
 
@@ -394,8 +405,9 @@ print(W)  # Imprimir el vector resultante
 ```
 
 **¿Cuáles son los valores finales en el vector W?**
+
 	a) 3, 4, 7, 8, 15, 16, 31, 32, 63, 64
-	_b) 3, 4, 7, 8, 15, 30, 10, 20, 10, 20_
+	b) 3, 4, 7, 8, 15, 30, 10, 20, 10, 20
 	c) 3, 4, 7, 8, 15, 30, 10, 20, 10, 40
 	d) Ninguna de las anteriores
 
@@ -440,6 +452,7 @@ Fin
 ```
 
 **Si el usuario ingresa el número 12, ¿cuál será el contenido de `d` al terminar el algoritmo?**
+
 	a. 1, 2, 3, 4
 	b. 1, 2, 3, 4, 6, 12
 	c. 2, 3, 5, 6
@@ -545,8 +558,9 @@ Fin
 ```
 
 **Si se ingresa el número `1`, ¿cuál es el valor de `i` al terminar la ejecución del algoritmo?**
+
 	A. 3
-	_B. 4_
+	B. 4
 	C. 5
 	D. El ciclo no termina
 
