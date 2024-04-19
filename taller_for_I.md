@@ -2,6 +2,12 @@
 <h1 align="center">Taller</h1>
 </div>
 
+Bienvenidos al taller donde exploraremos el poder y la flexibilidad del ciclo for en la programación. Este taller está diseñado para ayudaros a familiarizaros con el uso básico del ciclo `for`, un componente esencial en la mayoría de los lenguajes de programación. El objetivo es comprender cómo utilizar este tipo de bucle para iterar sobre estructuras de datos y realizar operaciones repetitivas de manera eficiente.
+
+Un ciclo for se utiliza para repetir un bloque de código un número específico de veces, lo que lo hace ideal para operaciones como procesar elementos en una lista, realizar cálculos repetitivos, o simplemente repetir una acción hasta que se cumpla una condición.
+
+En este taller, nos centraremos exclusivamente en ejercicios que involucran un único ciclo for, sin utilizar ciclos anidados. Esto nos permitirá concentrarnos en entender cada aspecto del ciclo for sin las complicaciones adicionales que introducen los bucles múltiples.
+
 # Ejercicio 1
 Determina qué realiza el siguiente algoritmo. Suponga que la lista `ventas` ya está creada y contiene los registros de ventas de un producto durante 30 días.
 
