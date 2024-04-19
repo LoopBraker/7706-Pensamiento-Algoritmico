@@ -25,9 +25,11 @@ Este proyecto es un curso de programación en Python orientado a estudiantes de 
   </ul>
   <br>
 <a href="#recursos"><strong>Recursos 🛠️</strong></a>
+    <ul>
+    <li><a href="#plataforma">Software/Plataforma a utilizar 🐍<a></li> 
+  </ul>
 </ul>
 <br>
-
 <h2 id="curriculo">
 Currículo 📚
 </h2>
@@ -69,3 +71,11 @@ Finalmente, en el quinto módulo, nos enfocaremos en los arreglos, estructuras d
 <h2 id="recursos">
 Recursos 🛠️
 </h2>
+
+<h4 id="plataforma">
+Software/Plataforma a utilizar 🐍
+</h4>
+
+En este curso, utilizaremos [Google-Colab](https://colab.research.google.com) como nuestra principal plataforma de desarrollo. Google Colab es un entorno de programación que se ejecuta en la nube y permite escribir y ejecutar código Python a través del navegador. Esto tiene grandes ventajas, ya que no requiere configuración y facilita el compartir y colaborar en proyectos de código en tiempo real.
+
+Gracias a su integración con Google Drive y su compatibilidad con numerosas bibliotecas y frameworks, Google Colab es una herramienta ideal tanto para principiantes como para programadores experimentados. Asimismo, ofrece acceso gratuito a GPUs y TPUs, lo cual es esencial para realizar computación de alto rendimiento, especialmente útil en tareas de procesamiento de datos grandes y complejos. 
