@@ -55,6 +55,13 @@ Módulo 3 - Estructuras de programación repetitiva 🔁
 
 Aquí abordaremos las estructuras de programación repetitiva, que permiten ejecutar bloques de código múltiples veces. Estudiarás diferentes tipos de ciclos como 'para', 'mientras', y 'repita hasta', incluyendo ciclos anidados que son fundamentales para manejar tareas repetitivas y complejas de manera eficiente. Este módulo es crucial para aprender a manejar procesos que requieren iteración, como procesar colecciones de datos o realizar cálculos repetitivos.
 
+- **Ciclo para**
+- **Ciclo mientras**
+- **Ciclo repita hasta**
+- **Ciclos anidados**
+
+- **Talleres:** Ciclo para I | Ciclo para II | Ciclo Mientras | Ciclo repita hasta | Ciclos anidados
+
 <h4 id="modulo-4">
 Módulo 4 - Programación modular 🧩
 </h4>
