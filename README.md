@@ -60,7 +60,7 @@ Aquí abordaremos las estructuras de programación repetitiva, que permiten ejec
 - **Ciclo repita hasta**
 - **Ciclos anidados**
 
-- **Talleres:** Ciclo para I | Ciclo para II | Ciclo Mientras | Ciclo repita hasta | Ciclos anidados
+- **Talleres:** [Ciclo para I](talleres/taller_for_I.md) | Ciclo para II | Ciclo Mientras | Ciclo repita hasta | Ciclos anidados
 
 <h4 id="modulo-4">
 Módulo 4 - Programación modular 🧩
