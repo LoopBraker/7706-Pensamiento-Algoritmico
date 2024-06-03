@@ -1,3 +1,18 @@
+<div>
+<h1 align="center">Taller Final</h1>
+</div>
+
+En este taller exploraremos un concepto fundamental en la programación y en el manejo de datos: los arreglos bidimensionales. También conocidos como matrices, los arreglos bidimensionales nos permiten almacenar y manipular datos en una estructura de filas y columnas, similar a una hoja de cálculo.
+
+Un arreglo bidimensional es una colección de elementos dispuestos en un formato tabular de filas y columnas. Cada elemento se identifica mediante dos índices: uno que representa la fila y otro que representa la columna. Esto nos permite acceder, modificar y procesar los datos de manera eficiente y organizada.
+
+Aplicaciones de los Arreglos Bidimensionales
+- Los arreglos bidimensionales se utilizan en una amplia variedad de aplicaciones, incluyendo:
+
+- Procesamiento de Imágenes: Las imágenes digitales se representan como matrices de píxeles.
+
+- Análisis de Datos: Las tablas de datos, como las que se encuentran en hojas de cálculo, son matrices donde cada fila puede representar un registro y cada columna una variable.
+
 ## Ejercicio 1
 Se tienen los datos de las ventas realizadas por una tienda de tecnología durante la semana en diferentes departamentos de la tienda.
 
