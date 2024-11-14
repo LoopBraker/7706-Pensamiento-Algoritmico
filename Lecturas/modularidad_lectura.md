@@ -1,4 +1,4 @@
-# Programación Modular en Python: Divide y venceras
+# Programación Modular en Python: divide y venceras
 
 La programación modular es una estrategia clave para lidiar con la complejidad del código, especialmente en proyectos grandes. La idea es simple: dividir el código en módulos independientes que resuelvan tareas específicas. En Python, esto se logra creando funciones y organizando el código en bloques lógicos.
 
@@ -52,11 +52,3 @@ Aquí, `calcular_precio_con_descuento` reutiliza las funciones `calcular_descuen
 2. **Usa variables locales**: Esto evita que datos se mezclen accidentalmente entre módulos.
 3. **Comunicación clara entre funciones**: Usa parámetros para pasar información, en lugar de depender de variables globales.
 4. **Reutiliza funciones**: Modularizar permite llamar a funciones en diferentes partes del programa sin duplicar código.
-
-### Resumen
-
-La modularización en Python permite construir código fácil de entender y mantener. Con ejemplos prácticos y el uso de variables locales, puedes asegurar que cada parte de tu programa cumpla su rol específico sin interferir con otras partes. Al final, cada módulo contribuye a un sistema robusto y organizado, donde el código es claro, eficiente y libre de errores.
-
----
-
-Este enfoque incluye ejemplos específicos de cómo crear funciones y usar variables locales, ayudando a los estudiantes a visualizar la modularidad en acción sin dar respuestas directas a las preguntas de examen.
